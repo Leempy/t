@@ -1,2 +1,2 @@
-# t
+# hexlet-git
 x
